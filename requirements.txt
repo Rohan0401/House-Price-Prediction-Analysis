@@ -7,7 +7,7 @@ certifi==2017.4.17
 chardet==3.0.3
 checkbox-support==0.22
 command-not-found==0.3
-cryptography==1.2.3
+cryptography==3.2
 cycler==0.10.0
 decorator==4.0.11
 defer==1.0.6
