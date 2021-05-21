@@ -81,7 +81,7 @@ six==1.10.0
 sklearn==0.0
 ssh-import-id==5.5
 system-service==0.3
-tensorflow==1.1.0
+tensorflow==2.5.0
 terminado==0.6
 testpath==0.3.1
 tornado==4.5.1
