@@ -102,7 +102,7 @@ unity-scope-tomboy==0.1
 unity-scope-virtualbox==0.1
 unity-scope-yelp==0.1
 unity-scope-zotero==0.1
-urllib3==1.21.1
+urllib3==1.26.5
 usb-creator==0.3.0
 wcwidth==0.1.7
 webencodings==0.5.1
