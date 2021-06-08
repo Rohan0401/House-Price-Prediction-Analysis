@@ -49,7 +49,7 @@ pandas==0.20.1
 pandocfilters==1.4.1
 pexpect==4.2.1
 pickleshare==0.7.4
-Pillow==3.1.2
+Pillow==8.2.0
 pipreqs==0.4.7
 plainbox==0.25
 prompt-toolkit==1.0.14
