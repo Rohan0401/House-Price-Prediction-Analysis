@@ -53,7 +53,7 @@ Pillow==3.1.2
 pipreqs==0.4.7
 plainbox==0.25
 prompt-toolkit==1.0.14
-protobuf==3.3.0
+protobuf==3.15.0
 ptyprocess==0.5.1
 pyasn1==0.1.9
 pycups==1.9.73
