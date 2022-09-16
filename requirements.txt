@@ -33,7 +33,7 @@ jupyter-core==4.3.0
 language-selector==0.1
 louis==2.6.4
 lxml==3.5.0
-Mako==1.0.3
+Mako==1.2.2
 MarkupSafe==1.0
 matplotlib==2.0.2
 missingno==0.3.5
